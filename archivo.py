@@ -28,3 +28,5 @@ def resumen_analitica():
 datos = resumen_analitica()
 print("total ventas", datos["total"])
 print("promedio", datos["promedio"])
+
+print("hola otra vez")
