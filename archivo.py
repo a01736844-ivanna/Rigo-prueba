@@ -30,6 +30,7 @@ print("total ventas", datos["total"])
 print("promedio", datos["promedio"])
 
 
+
 import matplotlib.pyplot as plt
 
 def graficar_ventas(dias, ventas):
@@ -49,3 +50,6 @@ def main_frontend():
 main_frontend()
 
 print("j")
+=======
+print("hola otra vez")
+
